@@ -1,0 +1,123 @@
+*{margin: 10px; pad: 0px}
+#principal{
+    margin: auto;
+    margin-top: 30px;
+    width: 600px;
+    height: 600px;
+    border: solid;
+    background-color:purple;
+    border-radius: 25px;   
+}
+#redondo{
+    border: solid;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    border-radius: 100px;
+}
+#redondo2{
+    border: solid;
+    margin: auto;
+    background-color: azure;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+#redondo3{
+    border: solid;
+    margin: auto;
+    background-color: azure;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+#ojo1{
+    margin: auto;
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 25px;
+}
+#ojo2{
+    margin: auto;
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 25px;
+    float: left;
+}
+#nariz
+{
+    margin: auto;
+    width: 20px;
+    height: 10px;
+    border-radius: 100px;
+    background-color: orangered;
+}
+#boca{
+    margin: auto;
+    width: 20px;
+    height: 5px;
+    background-color: black;
+}
+#boton1{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: black;
+}
+#boton2{
+    margin: auto;
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#brazo1 {
+    width: 120px;
+    height: 20px;
+    background-color: rgb(54, 23, 0);
+    position: absolute;
+    top: 200px; 
+    left: 470px; 
+}
+
+#brazo2 
+{
+    width: 120px;
+    height: 20px;
+    background-color: rgb(54, 23, 0);
+    position: absolute;
+    top: 200px; 
+    right: 470px; 
+}
+#boton3{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: black;
+}
+#boton4
+{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: black;
+}
+#boton5
+{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: black;
+}
